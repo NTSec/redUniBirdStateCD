@@ -8,3 +8,7 @@ https://www.wraysec.com/2016/03/14/how-to-win-the-ccdc/
 https://github.com/lchack/CCDC/blob/master/resources.txt
 
 https://github.com/lchack/CCDC/blob/master/linuxhardening.txt
+
+https://www.nuharborsecurity.com/ubuntu-server-hardening-guide-2/
+
+https://linux-audit.com/ubuntu-server-hardening-guide-quick-and-secure/
